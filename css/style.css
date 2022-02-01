@@ -1,0 +1,58 @@
+/* Обнуляющий стиль */
+@import url(null.css);
+
+#main-title {
+	color: orangered;
+}
+main {
+	color: orchid;
+}
+p.theme {
+	color: red;
+}
+p span {
+	color: blue;
+}
+[class="main-text"] {
+	color: green;
+}
+
+.text-2 {
+	color: brown;
+}
+.title-3,
+.global,
+.out,
+.in {
+	color: chocolate;
+}
+p.global-text {
+	color: darkolivegreen;
+}
+
+.global-text span {
+	color: crimson;
+}
+.out-text {
+	color: firebrick;
+}
+
+.in-text {
+	color: lawngreen;
+}
+div > h3 {
+	color: red;
+}
+ol > li {
+	color: blue;
+}
+li .tag-low {
+	color: crimson;
+}
+.null {
+	color: darkgoldenrod;
+}
+.null-text,
+.footer {
+	color: darkmagenta;
+}
